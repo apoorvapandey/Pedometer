@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pedometer</string>
+    <string name="steps01">Steps</string>
+    <string name="_010">0</string>
+    <string name="start_pedometer90">Start Pedometer</string>
+    <string name="stop_pedometer87">Stop Pedometer</string>
+    <string name="_089">0</string>
+    <string name="button67">Button</string>
+    <string name="button65">Button</string>
+</resources>
